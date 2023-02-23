@@ -1,0 +1,1 @@
+Команда для запуска проекта: docker-compose --env-file .env.example up
